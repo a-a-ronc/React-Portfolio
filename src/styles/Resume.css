@@ -1,0 +1,32 @@
+.resume {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.resume h2 {
+  margin-bottom: 20px;
+}
+
+.resume h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.resume ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.resume ul li {
+  margin-bottom: 10px;
+}
+
+.resume a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.resume a:hover {
+  text-decoration: underline;
+}
